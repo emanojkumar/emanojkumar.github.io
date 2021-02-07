@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "'Data is a precious thing that has many important stories to tell, whoever unlocks these insights strategically, will win.'"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
