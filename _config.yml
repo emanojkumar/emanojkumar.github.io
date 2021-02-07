@@ -13,7 +13,7 @@ name                     : &name "MANOJ KUMAR"
 description              : &description "personal description"
 url                      : https://emanojkumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : # "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "MANOJ KUMAR"
   avatar           : "profile.png"
-  bio              : "Data Science & Machine Learning Practitioner | Domain - Energy & Natural Resources | Mining | Cement Manufacturing"
+  bio              : "Data Science & Machine Learning Practitioner | Energy & Natural Resources | Cement Manufacturing"
   location         : "Noida, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3t83VSUAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Manoj_Kumar458" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/imanojkumar/"
+  linkedin         : "imanojkumar"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
