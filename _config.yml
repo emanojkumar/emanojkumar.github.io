@@ -89,7 +89,7 @@ author:
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3t83VSUAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Manoj_Kumar458" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # "https://www.researchgate.net/profile/Manoj_Kumar458" 
   uri              :
   bitbucket        :
   codepen          :
